@@ -1,0 +1,9 @@
+[build-system]
+requires = ["flit"]
+build-backend = "flit.buildapi"
+
+[tool.flit.metadata]
+module = "dlive"
+author = "Aareon Sullivan"
+author-email = "aareon@died-in.space"
+home-page = "https://github.com/Aareon/PyDLive"
